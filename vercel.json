@@ -1,0 +1,6 @@
+{
+  "installCommand": "unzip -o kairos-app.zip -d . && npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
